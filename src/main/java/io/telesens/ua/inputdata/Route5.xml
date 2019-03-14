@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Route number = "5" roundabout = "1" nbuses = "3">
+
+    <Arc time = "3">
+        <Station id = "8" big="false">
+            <name>Zoo</name>
+        </Station>
+
+        <Station id = "9" big="true">
+            <name>GreyGarden</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "3">
+        <Station id = "14" big="false">
+            <name>University</name>
+        </Station>
+
+        <Station id = "20" big="true">
+            <name>Students Dorm</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "15">
+        <Station id = "3" big="false">
+            <name>First Point</name>
+        </Station>
+
+        <Station id = "4" big="true">
+            <name>Bridge</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "4">
+        <Station id = "12" big="false">
+            <name>Alley Of Solidary</name>
+        </Station>
+
+        <Station id = "11" big="true">
+            <name>North Town</name>
+        </Station>
+    </Arc>
+
+</Route>

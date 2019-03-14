@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Route number = "3" roundabout = "0" nbuses = "4">
+
+    <Arc time = "6">
+        <Station id = "8" big="false">
+            <name>Zoo</name>
+        </Station>
+
+        <Station id = "13" big="false">
+            <name>City Park</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "5">
+        <Station id = "14" big="false">
+            <name>University</name>
+        </Station>
+
+        <Station id = "3" big="false">
+            <name>First Point</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "15">
+        <Station id = "2" big="false">
+            <name>Golf Holl</name>
+        </Station>
+
+        <Station id = "18" big="True">
+            <name>China Town</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "5">
+        <Station id = "14" big="false">
+            <name>University</name>
+        </Station>
+
+        <Station id = "13" big="true">
+            <name>City Park</name>
+        </Station>
+    </Arc>
+
+</Route>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Route number = "2" roundabout = "0" nbuses = "4">
+
+    <Arc time = "4">
+        <Station id = "1" big="true">
+            <name>Core</name>
+        </Station>
+
+        <Station id = "7" big="false">
+            <name>Leo</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "3">
+        <Station id = "8" big="false">
+            <name>Zoo</name>
+        </Station>
+
+        <Station id = "9" big="true">
+            <name>GreyGarden</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "8">
+        <Station id = "10" big="true">
+            <name>CityHall</name>
+        </Station>
+
+        <Station id = "11" big="true">
+            <name>North Town</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "8">
+        <Station id = "12" big="false">
+            <name>Alley Of Solidary</name>
+        </Station>
+
+        <Station id = "4" big="true">
+            <name>Bridge</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "13">
+        <Station id = "5" big="false">
+            <name>Riverdail</name>
+        </Station>
+
+        <Station id = "6" big="false">
+            <name>Old market</name>
+        </Station>
+    </Arc>
+
+</Route>

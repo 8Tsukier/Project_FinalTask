@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Route number = "6" roundabout = "0" nbuses = "4">
+    
+    <Arc time = "3">
+        <Station id = "6" big="false">
+            <name>Old market</name>
+        </Station>
+
+        <Station id = "17" big="false">
+            <name>Old Town</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "4">
+        <Station id = "19" big="true">
+            <name>St Church</name>
+        </Station>
+
+        <Station id = "7" big="false">
+            <name>Leo</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "10">
+        <Station id = "1" big="true">
+            <name>Core</name>
+        </Station>
+
+        <Station id = "2" big="false">
+            <name>Golf Holl</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "5">
+        <Station id = "18" big="True">
+            <name>China Town</name>
+        </Station>
+
+        <Station id = "14" big="false">
+            <name>University</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "4">
+        <Station id = "20" big="true">
+            <name>Students Dorm</name>
+        </Station>
+
+        <Station id = "3" big="false">
+            <name>First Point</name>
+        </Station>
+    </Arc>
+
+</Route>

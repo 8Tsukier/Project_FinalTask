@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Route number = "1" roundabout = "1" nbuses = "3">
+
+    <Arc time = "10">
+        <Station id = "1" big="true">
+            <name>Core</name>
+        </Station>
+
+        <Station id = "2" big="false">
+            <name>Golf Holl</name>
+        </Station>
+    </Arc>
+
+    <Arc time = "15">
+        <Station id = "3" big="false">
+            <name>First Point</name>
+        </Station>
+
+        <Station id = "4" big="true">
+            <name>Bridge</name>
+        </Station>
+    </Arc>
+
+        <Arc time = "13">
+            <Station id = "5" big="false">
+                <name>Riverdail</name>
+            </Station>
+
+            <Station id = "6" big="false">
+                <name>Old market</name>
+            </Station>
+        </Arc>
+
+</Route>
